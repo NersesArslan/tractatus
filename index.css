@@ -1,0 +1,19 @@
+header  {
+	display: flex;
+	justify-content: center;
+	padding: 15px ;
+}
+
+.input {
+	display: flex;
+	justify-content: center;
+}
+
+.list {
+	display: flex;
+	justify-content: center;
+}
+
+.myList {
+	padding: 0;
+}
